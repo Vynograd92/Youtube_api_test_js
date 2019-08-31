@@ -1,6 +1,6 @@
 const searchYoutube = require('youtube-api-v3-search');
 
-const api_key = "AIzaSyASq87JMNPgJ9TJj2CmVYUvaKKGCV-3DhQ"
+const api_key = "Youre API-KEY"
 const options = {
     q:'javascript|python -basics',
     part:'snippet',
